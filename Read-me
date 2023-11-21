@@ -1,12 +1,12 @@
-# Gerador de QR Code
+# Tabuada Generator
 
-Este é um simples projeto de gerador de QR Code que utiliza HTML, CSS e JavaScript. O objetivo é permitir que os usuários gerem códigos QR facilmente.
+Este projeto é um gerador de tabuada simples desenvolvido com HTML, CSS e JavaScript. O objetivo é permitir que os usuários visualizem facilmente a tabuada de um número escolhido.
 
 ## Funcionalidades
 
-- Geração de QR Code a partir de texto inserido pelo usuário.
-- Visualização instantânea do QR Code gerado.
-- Download fácil do QR Code gerado.
+- Geração instantânea da tabuada ao escolher um número.
+- Visualização clara e organizada da tabuada.
+
 
 ## Tecnologias Utilizadas
 
